@@ -1,5 +1,6 @@
 {
   "name": "pokedex-api",
+  "homepage": "https://ishayadav181.github.io/Pokedex-API",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
